@@ -1,1 +1,6 @@
 # Massachusetts General Hospital Analysis
+## Description
+- This project focuses on analyzing hospital encounter data to understand patient behavior, encounter types, treatment costs, insurance coverage, and readmission patterns at Massachusetts General Hospital.
+I built an end-to-end dashboard that highlights key performance metrics, patient trends, operational efficiency, and cost insights.The dashboard presents important KPIs such as total encounters, average patient stay, average visit cost, readmission count, percentage of uninsured encounters, and cost comparisons by payer and encounter type.
+I also explored year-wise encounter trends, patient demographics, and reasons for hospital visits to uncover patterns in healthcare usage. Using filters for race, county, and time periods, the dashboard supports deeper analysis and presents a clear view of how patient volumes and costs change over the years.
+Overall, this project helped me understand healthcare analytics, cost monitoring, and hospital performance evaluation while strengthening my skills in Power BI, data cleaning, and storytelling through visualization.
